@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GermanPerezMtx
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and saleforce
 - 🌱 I’m currently learning QA in LabsXD Gen
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
